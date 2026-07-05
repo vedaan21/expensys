@@ -1,4 +1,4 @@
-# Expense Tracker (Java)
+# Expensys (Java)
 Welcome to Expense Tracker, a simple and efficient tool for managing your personal or business expenses. This Java-based application provides a user-friendly interface for tracking and organizing your expenses.
 
 <img width="960" alt="ExpenseTrackerGUI" src="https://github.com/kabu03/expense-tracker/assets/118374503/2bcc529e-c70e-4f83-9473-4cb1152bdfa6">

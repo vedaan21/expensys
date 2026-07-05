@@ -10,24 +10,6 @@ Welcome to Expense Tracker, a simple and efficient tool for managing your person
 - **View Total Spending**: See your total spending per month, for all time, and broken down by category (e.g., food, entertainment, groceries).
 - **Real-Time Currency Conversion**: Convert expenses in multiple currencies with support for over 30 currencies, ensuring accurate financial tracking.
 
-## Setup and Installation
-
-To get started with Expense Tracker:
-
-### 1) Clone the Repository
-
-Use the following command to clone the repository:
-```git clone https://github.com/kabu03/expense-tracker.git```
-
-### 2) Open and Run the Project
-Open the project in your preferred Java IDE.
-Run the application from the main class.
-
-### 3) Rename the Expense File
-Before using the expense tracker, rename the expenses_sample.ser file to expenses.ser in the project's root directory. This file will be used to store your expense data using Java serialization.
-
-#### Custom File Name (Optional)
-If you prefer a different file name, create the file with your chosen name. Then, open ExpenseFileHandler.java, and change the file name in the code to match your new file name.
 
 ## Getting an API Key
 This application uses the ExchangeRate-API for currency conversion. You need to get an API key from ExchangeRate-API, which has a free tier.
